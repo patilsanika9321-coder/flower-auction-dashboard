@@ -1,7 +1,5 @@
 # Flower Auction House & Bid Tracking Dashboard
 
-Run with python flower_auction_app.py
-
 A relational database app (Python, SQLite, Tkinter) for tracking flower
 auction houses, lots and bids. Deleting a house removes its lots and bids,
 and deleting a lot removes its bids.
